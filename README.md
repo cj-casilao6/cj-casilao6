@@ -1,6 +1,7 @@
 # Hi, I'm Christian (CJ) Casilao!</h1>
 
 - Currently CS Student at University of Illinois at Chicago
+- Member of Linux Group @ UIC
 - Expected graduation in Fall 2025
 
 # I'm Currently Learning
