@@ -1,9 +1,5 @@
 # Hi, I'm Christian (CJ) Casilao!</h1>
 
-- Current CS Student at University of Illinois at Chicago
-- Member of Linux Group @ UIC
-- Expected graduation in Fall 2025
-
 # I'm Currently Learning
  - CS341 : Programming Language Design and Implementation
  - CS342 : Software Design Principles and Practices
