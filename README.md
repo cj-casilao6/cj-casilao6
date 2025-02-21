@@ -1,5 +1,7 @@
 # Hi, I'm Christian (CJ) Casilao!</h1>
-I am a 21 year old, aspiring back-end developer with a high interest in data science seeking an entry-level position/internship!
+Right now, I'm a Computer Science student at the University of Illinois at Chicago. I am an aspiring back-end developer with a high interest in data science! 
+I am currently furthering my proficiency in C, C++, and Python. As I'm looking forward to graduation, I have started to learn and learning SQL, F#, React, and Go. 
+I hope to make use of my skills in an entry level position/internship!
 
 
 # I'm Currently Learning
