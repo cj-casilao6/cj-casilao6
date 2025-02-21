@@ -1,5 +1,6 @@
 # Hi, I'm Christian (CJ) Casilao!</h1>
-I am a 21 year old, aspiring back-end developer with a high interest in data science seeking an entry-level position/internship to expand upon my skills!
+I am a 21 year old, aspiring back-end developer with a high interest in data science seeking an entry-level position/internship!
+
 
 # I'm Currently Learning
  - CS341 : Programming Language Design and Implementation
