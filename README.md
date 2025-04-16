@@ -1,5 +1,5 @@
 # Hi, I'm Christian (CJ) Casilao!</h1>
-I am a 21 year old student at the University of Illinois at Chicago that is an aspiring back-end developer with a high interest indata science. Here at UIC, I have learned new  langauges, algorithms, computer architecture, database systems, and more!
+I am a 21 year old student at the University of Illinois at Chicago that is an aspiring back-end developer with a high interest in data science. Here at UIC, I have learned new  langauges, algorithms, computer architecture, database systems, and more!
 
 Right now, I am furthering my proficiency in C, C++, and Python. As I'm looking forward to graduation, I am currently learning SQL, Java, F#, React, and Go. 
 I hope to make use of my skills in an entry level position/internship!
