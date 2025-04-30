@@ -16,7 +16,7 @@ I hope to make use of my skills in an entry level position/internship!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -28,7 +28,13 @@ I hope to make use of my skills in an entry level position/internship!
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-    <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+  </a>
+  <a href="https://fsharp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="fsharp" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   </a>
 </p>
