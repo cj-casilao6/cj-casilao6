@@ -1,44 +1,43 @@
 # Hi, I'm Christian (CJ) Casilao!</h1>
-I am a 21 year old student at the University of Illinois at Chicago that is an aspiring back-end developer with a high interest in data science. Here at UIC, I have learned new  langauges, algorithms, computer architecture, database systems, and more!
+I am a 21-year-old student at the University of Illinois at Chicago majoring in Computer Science, aspiring to become a data analyst. At UIC, I have gained experience in programming languages, algorithms, data science, database systems, and more.
 
-Right now, I am furthering my proficiency in C, C++, and Python. As I'm looking forward to graduation, I am currently learning SQL, Java, F#, React, and Go. 
-I hope to make use of my skills in an entry level position/internship!
+Currently, I am strengthening my skills in SQL, Tableau, Excel, and Python. As I prepare for graduation, I am also learning Power BI, R, and AWS.  
 
-
-# I'm Currently Learning
- - CS341 : Programming Language Design and Implementation
- - CS342 : Software Design Principles and Practices
- - CS361 : Systems Programming
- - CS362 : Computer Design
+I am eager to apply my skills and knowledge in an entry-level position or internship!
 
 
 - 📫 Connect with me @ **cjcasilao6@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <!-- SQL (MySQL icon for general SQL) -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
   </a>
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
   </a>
-  <a href="https://fsharp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="fsharp" width="40" height="40"/>
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
   </a>
-  <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/>
   </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  </a>
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
+
 
