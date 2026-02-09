@@ -1,7 +1,7 @@
 # Hi, I'm Christian (CJ) Casilao!</h1>
 I am a 22-year-old student at the University of Illinois at Chicago majoring in Computer Science, aspiring to become a data analyst. At UIC, I have gained experience in programming languages, algorithms, data science, database systems, and more.
 
-Currently, I am strengthening my skills in SQL, Tableau, Excel, and Python. As I prepare for graduation, I am also learning Power BI, R, and AWS.  
+Currently, I am strengthening my skills in SQL, Excel, and Python. As I prepare for graduation, I am also learning Power BI and Tableau.
 
 I am eager to apply my skills and knowledge in an entry-level position or internship!
 
